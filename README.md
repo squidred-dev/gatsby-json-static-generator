@@ -1,0 +1,1 @@
+# gatsby-json-static-generator
